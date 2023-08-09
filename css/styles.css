@@ -76,6 +76,10 @@ a:hover {
   .icon {
     display: none;
   }
+
+  .container {
+    margin: 50px;
+  }
 }
 
 .croissant-image {
